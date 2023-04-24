@@ -8,7 +8,7 @@ Projeto desenvolvido para cliente.
 ## 🚀 Finalizado.
 
 ## 📋 Técnologias
-HTML + CSS + JavaScript
+HTML + CSS + JavaScript + Scrollreveal
 
 ## ✒️ Autor
 Márcio Reis
