@@ -7,7 +7,7 @@ Projeto desenvolvido para cliente.
 
 ## 🚀 Finalizado.
 
-## 📋 Técnologias
+## 📋 Tecnologias
 HTML + CSS + JavaScript + Scrollreveal
 
 ## ✒️ Autor
